@@ -4,9 +4,8 @@ Description:
 A simple to-do list web application to help users manage their tasks, set deadlines, and track progress.
 
 Requirements:
-- Python 3.x
-- Flask 2.0+
-- SQLite
+- Visual Studio
+- SQL Management Server
 
 Installation:
 1. Clone the repository:
